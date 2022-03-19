@@ -1,16 +1,30 @@
-### Hi there 👋, my name is Rakin Shahriar
+### Greeting from me 👋, my name is Rakin Shahriar
 #### I am learning Web Development
 ![I am learning Web Development](https://pbs.twimg.com/profile_banners/1487349588038402052/1644642483/1500x500)
 
-Right now, I am learning Django, a python web framework and JavaScript. Being a web developer is my desire. Recommendation System is my research area, I am also interested in Machine Learning.
+Right now, I am learning Django, a python web framework and JavaScript. Being a web developer is my desire. 
 
-Skills: C / HTML / CSS / JS / Python / Django / MySQL
-
+### 🎳 Skills: 
+1. C 
+2. HTML 
+3. CSS 
+4. Python  
+5. JavaScript
+6. Django 
+7. MySQL
+### About Me:
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Django (Python web Framework) and JavaScript 
-- 👯 I’m looking to collaborate on Django or Web development related projects 
+- 💞 I’m looking to collaborate on Django or Web development related projects 
 - 👀 I’m interested in **Machine Learning**.
+- 🥅 My career goal is to discover new techniques and technologies in **Web Development**.
 
+### Research Interest:
+
+***Recommendation System*** is my research area, I am also interested in Machine Learning. I built a **Hybrid Recommendation System** using **Restricted
+Boltzmann Machine(RBM)** and **Singular Value Decomposition(SVD)**. I used following libraries in it:
+- [Surprise library](http://surpriselib.com/)
+- [Tensorflow](https://www.tensorflow.org/)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rakinplaban)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rakin-shahriar-plaban-3583ba1b1//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/PlabanRakin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/16396049/rakin235?tab=profile)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/rakin235)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/rakin54/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/rakinshahriar54?hr_r=1)  
 
