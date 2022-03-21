@@ -27,7 +27,7 @@ Boltzmann Machine(RBM)** and **Singular Value Decomposition(SVD)**. I used follo
 - [Surprise library](http://surpriselib.com/)
 - [Tensorflow](https://www.tensorflow.org/)
 
-
+[<img src='Screenshot 2022-03-21 114957.png' alt='github' height='140'>](https://github.com/rakinplaban/HybridRS-using-RBM-SVD)
 
 ### Social Networks and Activities:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rakinplaban)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rakin-shahriar-plaban-3583ba1b1//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/PlabanRakin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16396049/rakin235?tab=profile)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/rakin235)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/rakin54/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/rakinshahriar54?hr_r=1)  
