@@ -5,13 +5,15 @@
 Right now, I am learning Django, a python web framework and JavaScript. Being a web developer is my desire. 
 
 ### 🎳 Skills: 
-1. <img src='https://i0.wp.com/codingee.com/wp-content/uploads/2018/12/c-logo.png' alt='github' height='40'>
+1. C
 2. HTML 
-3. CSS 
-4. Python  
+3. CSS
+4. Python
 5. JavaScript
 6. Django 
 7. MySQL
+
+
 ### About Me:
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Django (Python web Framework) and JavaScript 
