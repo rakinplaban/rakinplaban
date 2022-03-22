@@ -5,7 +5,7 @@
 Right now, I am learning Django, a python web framework and JavaScript. Being a web developer is my desire. 
 
 ### 🎳 Skills: 
-1. C 
+1. [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]
 2. HTML 
 3. CSS 
 4. Python  
