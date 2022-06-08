@@ -6,26 +6,24 @@ Right now, I am learning Django, a python web framework and JavaScript. Being a 
 
 ### 🎳 Skills: 
 #### Programming Languages :
-1. C
-2. Python3
-3. SQL
-
+1. C  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="20">
+2. Python3  <img src="https://banner2.cleanpng.com/20180712/yka/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c1cc0d6.3474912915314089881178.jpg" alt="Python3" height="20">
 
 #### Tools and technologies :
-1. HTML 
-2. CSS
+1. HTML  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtpTjbPnpbOKuZmh9lIa-E_p8z38J2hPafYxo512Mjr0aS9O-0JPcsfTM7YMPofqctEk&usqp=CAU" alt="HTML" height = "20">
+2. CSS  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" alt="CSS" height = "20">
 3. JavaScript <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" height = "20">
-4. Git <img src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png"  alt='Git' height='20'>
-5. LaTex <img src="https://ctan.math.washington.edu/tex-archive/info/guide-latex-fr/Images/overleaf.png"  alt='Overleaf' height='20'>
-6. Blender <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"  alt='Animation and video maker' height='20'>
+4. Git  <img src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png"  alt='Git' height='20'>
+5. LaTex  <img src="https://ctan.math.washington.edu/tex-archive/info/guide-latex-fr/Images/overleaf.png"  alt='Overleaf' height='20'>
+6. Blender  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"  alt='Animation and video maker' height='20'>
 
 #### Frameworks :
-1. Django 
-2. Bootstrap
+1. Django  <img src="https://www.landinfotech.com/wp-content/uploads/2020/08/django-logo-negative.png" alt="Django" height="20">
+2. Bootstrap  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4WFK-tyuw4vm0RzYpjIsHTlqKczndm9M5P7orjBhDsJqeZJjKfjV1YayALlW1PXpLxkU&usqp=CAU" height="20" alt="Bootstrap5">
 
 #### Databases :
-1. MySQL
-2. Postgresql
+1. MySQL  <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" height="20">
+2. Postgresql  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="Postgresql" height="20">
 
 
 ### About Me:
