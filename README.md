@@ -5,13 +5,27 @@
 Right now, I am learning Django, a python web framework and JavaScript. Being a web developer is my desire. 
 
 ### 🎳 Skills: 
+#### Programming Languages :
 1. C
-2. HTML 
-3. CSS
-4. Python
-5. JavaScript
-6. Django 
-7. MySQL
+2. Python3
+3. SQL
+
+
+#### Tools and technologies :
+1. HTML 
+2. CSS
+3. JavaScript <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" height = "20">
+4. Git <img src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png"  alt='Git' height='20'>
+5. LaTex <img src="https://ctan.math.washington.edu/tex-archive/info/guide-latex-fr/Images/overleaf.png"  alt='Overleaf' height='20'>
+6. Blender <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"  alt='Animation and video maker' height='20'>
+
+#### Frameworks :
+1. Django 
+2. Bootstrap
+
+#### Databases :
+1. MySQL
+2. Postgresql
 
 
 ### About Me:
