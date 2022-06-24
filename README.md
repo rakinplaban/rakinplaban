@@ -16,6 +16,7 @@ Right now, I am learning Django, a python web framework and JavaScript. Being a 
 4. Git  <img src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png"  alt='Git' height='20'>
 5. LaTex  <img src="https://ctan.math.washington.edu/tex-archive/info/guide-latex-fr/Images/overleaf.png"  alt='Overleaf' height='20'>
 6. Blender  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png"  alt='Animation and video maker' height='20'>
+7. Docker <img src="https://www.docker.com/wp-content/uploads/2022/05/Docker_Temporary_Image_Google_Blue_1080x1080_v1.png"  alt='Animation and video maker' height='20'>
 
 #### Frameworks :
 1. Django  <img src="https://www.landinfotech.com/wp-content/uploads/2020/08/django-logo-negative.png" alt="Django" height="20">
