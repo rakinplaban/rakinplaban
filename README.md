@@ -33,7 +33,7 @@ Right now, I am learning Django, a python web framework and JavaScript. Being a 
 - 💞 I’m looking to collaborate on **Open Source Projects**. 
 - 👀 I’m interested in **Machine Learning**.
 - 🥅 My career goal is to discover new techniques and technologies in **Web Development**.
-- 📫 How to reach me: [<img src='https://winaero.com/blog/wp-content/uploads/2020/04/Skype-Icon-Logo-Big-256-2020.png' alt='skype' height='15'>](https://join.skype.com/invite/wdX8t4JazeJ7) [<img src='https://pbs.twimg.com/media/ERM-m8qXYAEpafU.png' alt='e-mail' height='30'>](mailto:rakinshahriar54@outlook.com)
+- 📫 How to reach me: [<img src='https://winaero.com/blog/wp-content/uploads/2020/04/Skype-Icon-Logo-Big-256-2020.png' alt='skype' height='15'>](https://join.skype.com/invite/wdX8t4JazeJ7) [<img src='https://pbs.twimg.com/media/ERM-m8qXYAEpafU.png' alt='e-mail' height='15'>](mailto:rakinshahriar54@outlook.com)
 
 ### Research Interest:
 
