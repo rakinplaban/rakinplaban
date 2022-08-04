@@ -44,6 +44,8 @@ Boltzmann Machine(RBM)** and **Singular Value Decomposition(SVD)**. I used follo
 ### Badges:
 [![trophy](https://github-profile-trophy.vercel.app/?username=rakinplaban)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rakinplaban&theme=onedark)](https://github.com/rakinplaban/github-profile-trophy)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakinplaban)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakinplaban&show_icons=true)  
