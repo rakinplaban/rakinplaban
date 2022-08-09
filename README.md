@@ -42,16 +42,15 @@ Boltzmann Machine(RBM)** and **Singular Value Decomposition(SVD)**. I used follo
 
 
 ### Badges:
-[![trophy](https://github-profile-trophy.vercel.app/?username=rakinplaban&theme=onedark)](https://github.com/rakinplaban/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rakinplaban&theme=onedark)](https://github.com/rakinplaban/github-profile-trophy)![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakinplaban&show_icons=true&theme=dark)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rakinplaban&theme=onedark)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakinplaban)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakinplaban&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakinplaban&show_icons=true&theme=dark)  
-
+![GitHub metrics](https://metrics.lecoq.io/rakinplaban) 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rakinplaban)  
 
-![GitHub metrics](https://metrics.lecoq.io/rakinplaban)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rakinplaban&theme=onedark)  
+
+
 
 ![Profile views](https://gpvc.arturio.dev/rakinplaban)  
