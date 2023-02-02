@@ -1,6 +1,4 @@
 ### Greeting from me 👋, my name is Rakin Shahriar
-#### I am learning Web Development
-![I am learning Web Development](https://pbs.twimg.com/profile_banners/1487349588038402052/1644642483/1500x500)
 
 Right now, I am learning Django, a python web framework and JavaScript. Being a web developer is my desire. 
 
@@ -17,7 +15,7 @@ Right now, I am learning Django, a python web framework and JavaScript. Being a 
 
 ### About Me:
 - 🔭 I’m currently taking an online course to learn Machine Learning. 
-- 🌱 I’m currently learning Django (Python web Framework) and JavaScript 
+- 🌱 I’m currently learning Machine Learning 
 - 💞 I’m looking to collaborate on **Open Source Projects**. 
 - 👀 I’m interested in **Machine Learning**.
 - 🥅 My career goal is to discover new techniques and technologies in **Web Development**.
