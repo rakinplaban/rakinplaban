@@ -4,7 +4,7 @@ Right now, I am learning Django, a python web framework and JavaScript. Being a 
 
 ### 🎳 Skills: 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40"><img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" alt="C++" height="40"><img src="https://banner2.cleanpng.com/20180712/yka/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c1cc0d6.3474912915314089881178.jpg" alt="Python3" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="40"><img src="https://e7.pngegg.com/pngimages/726/280/png-clipart-c-guida-essenziale-per-programmatori-der-c-programmierer-c-lernen-professionell-anwenden-losungen-nutzen-the-c-programming-language-3d-spiele-programmierung-modernes.png" alt="C++" height="40"><img src="https://banner2.cleanpng.com/20180712/yka/kisspng-professional-python-programmer-computer-programmin-python-logo-download-5b47725c1cc0d6.3474912915314089881178.jpg" alt="Python3" height="40">
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVtpTjbPnpbOKuZmh9lIa-E_p8z38J2hPafYxo512Mjr0aS9O-0JPcsfTM7YMPofqctEk&usqp=CAU" alt="HTML" height = "40"><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png" alt="CSS" height = "40"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" height = "40"><img src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png"  alt='Git' height='40'>
 
