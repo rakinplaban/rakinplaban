@@ -7,7 +7,7 @@ Right now, I am learning Django, a python web framework and JavaScript. Being a 
 
 **Frameworks :** ✅ Django  ✅ Beautifulsoup 
 
-**Tools and techonolgies:** ✅ HTML ✅ CSS ✅ JavaScript ✅ Git ✅ Docker 
+**Tools and techonolgies:** ✅ HTML ✅ CSS ✅ JavaScript ✅ Git ✅ Docker ✅ Postman
 
 
 ### About Me: 
