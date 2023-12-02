@@ -13,7 +13,7 @@ I am currently learning Flask, a Python web framework and JavaScript. Being a we
 ### About Me: 
 - 💞 I’m looking to collaborate on **Open Source Projects**. 
 - 👀 I’m interested in **Networking and Cyber Security**.
-- 🌱 focusing on learning **Node.js**
+- 🌱 focusing on learning **Flask Web Framework and Selenium**
 - 🥅 My career goal is to discover new techniques and technologies in **Web Development**.
 - 📫 How to reach me: [<img src='https://winaero.com/blog/wp-content/uploads/2020/04/Skype-Icon-Logo-Big-256-2020.png' alt='skype' height='25'>](https://join.skype.com/invite/wdX8t4JazeJ7) [<img src='https://pbs.twimg.com/media/ERM-m8qXYAEpafU.png' alt='e-mail' height='25'>](mailto:rakinshahriar54@gmail.com)
 
