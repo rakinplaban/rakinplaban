@@ -15,16 +15,9 @@ I am currently learning Flask, a Python web framework and JavaScript. Being a we
 - 👀 I’m interested in **Networking and Cyber Security**.
 - 🌱 focusing on learning **Flask Web Framework and Selenium**
 - 🥅 My career goal is to discover new techniques and technologies in **Web Development**.
-- 📫 How to reach me: [<img src='https://winaero.com/blog/wp-content/uploads/2020/04/Skype-Icon-Logo-Big-256-2020.png' alt='skype' height='25'>](https://join.skype.com/invite/wdX8t4JazeJ7) [<img src='https://pbs.twimg.com/media/ERM-m8qXYAEpafU.png' alt='e-mail' height='25'>](mailto:rakinshahriar54@gmail.com)
+- 📫 How to reach me: [<img src='https://winaero.com/blog/wp-content/uploads/2020/04/Skype-Icon-Logo-Big-256-2020.png' alt='skype' height='25'>](https://join.skype.com/invite/wdX8t4JazeJ7) [<img src='https://pbs.twimg.com/media/ERM-m8qXYAEpafU.png' alt='e-mail' height='25'>](mailto:rakinshahriar54@gmail.com) [<img src='https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png' alt='discord' height='25'>](https://discord.com/users/934874604399390740)
 
-### Research Interest:
 
-***Recommendation System*** is my research area, I am also interested in Machine Learning. I built a **Hybrid Recommendation System** using **Restricted
-Boltzmann Machine(RBM)** and **Singular Value Decomposition(SVD)**. I used the following libraries in it:
-- [Surprise library](http://surpriselib.com/)
-- [Tensorflow](https://www.tensorflow.org/)
-
-[<img src='Screenshot 2022-03-21 114957.png' alt='github' height='140'>](https://github.com/rakinplaban/HybridRS-using-RBM-SVD)
 
  
 ### Activities:
