@@ -1,4 +1,5 @@
 ### Greeting from me 👋, my name is Rakin Shahriar
+<!--[![An image of @rakinplaban's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rakinplaban)](https://holopin.io/@rakinplaban)-->
 
 I am currently learning Flask, a Python web framework and JavaScript. Being a web developer is my desire. 
 
