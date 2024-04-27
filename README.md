@@ -39,4 +39,6 @@ I am currently learning Flask, a Python web framework and JavaScript. Being a we
 
 
 
-![Profile views](https://gpvc.arturio.dev/rakinplaban)  
+
+<!-- GitHub Profile Views Counter -->
+![](https://komarev.com/ghpvc/?username=rakinplaban)
