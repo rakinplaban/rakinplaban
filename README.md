@@ -32,9 +32,6 @@ I am currently learning Flask, a Python web framework and JavaScript. Being a we
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakinplaban&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/rakinplaban) 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rakinplaban)   -->
-
 
 
 
