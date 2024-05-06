@@ -6,11 +6,36 @@ I am currently learning Flask, a Python web framework and JavaScript. Being a we
 ### 🎳 Skills: 
 **Programming Language:** 
 
-![Static Badge](https://img.shields.io/badge/Python-1asdf?style=for-the-badge&logo=Python&color=gray)
+![Static Badge](https://img.shields.io/badge/Python-asdf233?style=for-the-badge&color=gray)
+![Static Badge](https://img.shields.io/badge/Java-asdf233?style=for-the-badge&logo=Java&color=blue)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-asdf233?style=for-the-badge&color=%2367217A)
 
 
 
-**Frameworks :** ✅ Django  ✅ Beautifulsoup ✅ Flask ✅ Bootstrap
+**Backend:** 
+
+![Static Badge](https://img.shields.io/badge/django-asdf233?style=for-the-badge&color=%23005F40)
+
+
+
+**Frontend:**
+
+![Static Badge](https://img.shields.io/badge/html-asdf233?style=for-the-badge&color=orange)
+![Static Badge](https://img.shields.io/badge/css-asdf233?style=for-the-badge&color=red)
+![Static Badge](https://img.shields.io/badge/bootstrap-asdf233?style=for-the-badge&color=%230020EB)
+![Static Badge](https://img.shields.io/badge/JavaScript-asdf233?style=for-the-badge&color=%23ECDA1D)
+
+
+**Database:**
+
+![Static Badge](https://img.shields.io/badge/MySQL-Postgresql-asdf233?style=for-the-badge&color=%23A8E9A8)
+
+
+**Web Scraping:**
+
+![Static Badge](https://img.shields.io/badge/Beautifulsoup-asdf233?style=for-the-badge&color=%23C0C0C0)
+
+
 
 **Tools and techonolgies:** ✅ HTML ✅ CSS ✅ JavaScript ✅ Git ✅ Docker ✅ Postman
 
