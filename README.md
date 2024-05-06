@@ -4,7 +4,11 @@
 I am currently learning Flask, a Python web framework and JavaScript. Being a web developer is my desire. 
 
 ### 🎳 Skills: 
-**Programming Language:** ✅Python  ✅C++  ✅Java
+**Programming Language:** 
+
+![Static Badge](https://img.shields.io/badge/Python-1asdf?style=for-the-badge&logo=Python&color=gray)
+
+
 
 **Frameworks :** ✅ Django  ✅ Beautifulsoup ✅ Flask ✅ Bootstrap
 
