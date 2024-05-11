@@ -1,5 +1,8 @@
-### Greeting 👋, this profile is under development.
+### Greeting 👋.
 <!--[![An image of @rakinplaban's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rakinplaban)](https://holopin.io/@rakinplaban)-->
+<div style="text-align:center">
+    <img src="img_cat.png" height="250" width="250">
+</div>
 
 I am currently learning Flask, a Python web framework and JavaScript. Being a web developer is my desire. 
 
