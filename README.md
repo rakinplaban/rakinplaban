@@ -24,7 +24,7 @@ I am currently learning Flask, a Python web framework and JavaScript. Being a we
  
 ## 🅰️ Activities:
 <p align="left">
-<a href="https://stackoverflow.com/users/rakin235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rakin235" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16396049/rakin235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rakin235" height="30" width="40" /></a>
 <a href="https://instagram.com/rakin235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakin235" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rakinshahriar54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rakinshahriar54" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rakinsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rakinsp" height="30" width="40" /></a>
