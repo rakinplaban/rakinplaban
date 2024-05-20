@@ -15,11 +15,14 @@ I am currently learning Flask, a Python web framework and JavaScript. Being a we
 ## 🫠 About Me: 
 - 💞 I’m looking to collaborate on **Open Source Projects**. 
 - 👀 I’m interested in **Networking and Cyber Security**.
-- 🌱 focusing on learning **Flask Web Framework and Selenium**
+- 🔭 I'm working on my **University Final Project on Advanced Persistent Threat**.
+- 🌱 focusing on ~learning **Flask Web Framework and Selenium**~ **University Final Project**.
 - 🥅 My career goal is to discover new techniques and technologies in **Web Development**.
+- 📫 How to reach me: 👉 [here](https://github.com/rakinplaban/rakinplaban/discussions)
+- ⚡funny facts: a cat person without cats 😭.
 
 
-## 📫 How to reach me: 👉 [here](https://github.com/rakinplaban/rakinplaban/discussions) or 👇
+## 📞 Connect me on 👇
 
 [<img src='https://winaero.com/blog/wp-content/uploads/2020/04/Skype-Icon-Logo-Big-256-2020.png' alt='skype' height='32' width='40'>](https://join.skype.com/invite/wdX8t4JazeJ7)  [<img src='https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png' alt='discord' height='32' width='40'>](https://discord.com/users/934874604399390740) 
 
