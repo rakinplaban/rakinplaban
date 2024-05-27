@@ -20,6 +20,7 @@ I am currently learning ~Flask, a Python web framework~ JavaScript. Being a web 
 
 <img align="right" src="https://i.imgflip.com/65efzo.gif" height="200">
 
+
 - 💞 I’m looking to collaborate on **Open Source Projects**. 
 - 👀 I’m interested in **Networking and Cyber Security**.
 - 🔭 I'm working on my **University Final Project on Advanced Persistent Threat**.
@@ -52,6 +53,9 @@ I am currently learning ~Flask, a Python web framework~ JavaScript. Being a web 
 1. https://www.hackerrank.com/certificates/3d46e0f5b57d
 
 # 📊 GitHub Stats:
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTB6MWNzcjF4YmxwaHl6ejBuc3RqY3hna24xM2t1NTZqeWp2YXYxOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif" height="200">
+
 ![](https://github-readme-stats.vercel.app/api?username=rakinplaban&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rakinplaban&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakinplaban&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -59,12 +63,8 @@ I am currently learning ~Flask, a Python web framework~ JavaScript. Being a web 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rakinplaban&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-
-
-
+### 💝 Take a love
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2x5ODVkc3kxcW1qZXp2Ym16MGttZWU5cnhnYjdkOXdscDlpMXNrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PcEHGN6WvTO2ekGICI/giphy.gif" height="200">
 
 
 
