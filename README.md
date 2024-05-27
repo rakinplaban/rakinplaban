@@ -15,7 +15,11 @@ I am currently learning ~Flask, a Python web framework~ JavaScript. Being a web 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
+
 ## 🫠 About Me: 
+
+<img align="right" src="https://i.imgflip.com/65efzo.gif" height="200">
+
 - 💞 I’m looking to collaborate on **Open Source Projects**. 
 - 👀 I’m interested in **Networking and Cyber Security**.
 - 🔭 I'm working on my **University Final Project on Advanced Persistent Threat**.
