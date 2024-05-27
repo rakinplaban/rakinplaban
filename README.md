@@ -1,6 +1,9 @@
 ### Greeting 👋.
 <!--[![An image of @rakinplaban's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rakinplaban)](https://holopin.io/@rakinplaban)-->
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rakin+from+Bangladesh!;" />
+</h1>
 
 I am currently learning ~Flask, a Python web framework~ JavaScript. Being a web developer is my desire. I am presently working on a Cyber Security project. I am a web developer (back-end focused). I like to practice Python & SQL on LeetCode, CodeSignal & HackerRank. I am active on LeetCode, HackerRank, Codeforces, GitHub and StackOverflow.
 
