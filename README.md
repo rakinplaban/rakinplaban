@@ -1,3 +1,5 @@
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
 ### Greeting  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="display: inline-block;">
 <!--[![An image of @rakinplaban's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rakinplaban)](https://holopin.io/@rakinplaban)-->
 
@@ -76,3 +78,5 @@ I am currently learning ~Flask, a Python web framework~ JavaScript. Being a web 
 
 <!-- GitHub Profile Views Counter -->
 ![](https://komarev.com/ghpvc/?username=rakinplaban)
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
