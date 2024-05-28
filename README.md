@@ -5,6 +5,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rakin+From+Bangladesh!;" />
 </h1>
 
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFjbWx5dnlweTltenNtd3JnZXQyOWdnMnNzb2sxN3k2b3FqaDhhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VGcVZyreAU2UewDI81/giphy.gif" height=100>
 I am currently learning ~Flask, a Python web framework~ JavaScript. Being a web developer is my desire. I am presently working on a Cyber Security project. I am a web developer (back-end focused). I like to practice Python & SQL on LeetCode, CodeSignal & HackerRank. I am active on LeetCode, HackerRank, Codeforces, GitHub and StackOverflow.
 
 ### 🎳 Skills: 
