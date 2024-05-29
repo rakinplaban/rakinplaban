@@ -8,7 +8,6 @@
 </h1>
 
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFjbWx5dnlweTltenNtd3JnZXQyOWdnMnNzb2sxN3k2b3FqaDhhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VGcVZyreAU2UewDI81/giphy.gif" height=100> 
 I am currently learning ~Flask, a Python web framework~ JavaScript. Being a web developer is my desire. I am presently working on a Cyber Security project. I am a web developer (back-end focused). I like to practice Python & SQL on LeetCode, CodeSignal & HackerRank. I am active on LeetCode, HackerRank, Codeforces, GitHub and StackOverflow.
 
 
@@ -25,7 +24,8 @@ I am currently learning ~Flask, a Python web framework~ JavaScript. Being a web 
 
 ## 🫠 About Me: 
 
-<img align="right" src="https://i.imgflip.com/65efzo.gif" height="200">
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTl1ZW9ja2sybzR1bmc5cDdwcmI5cGxnNjNhOXNpbmFtbjRrb3RjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" height="200">
+
 
 
 - 💞 I’m looking to collaborate on **Open Source Projects**. 
@@ -71,7 +71,10 @@ I am currently learning ~Flask, a Python web framework~ JavaScript. Being a web 
 ![](https://github-profile-trophy.vercel.app/?username=rakinplaban&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 💝 Take a love
+<!--
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2x5ODVkc3kxcW1qZXp2Ym16MGttZWU5cnhnYjdkOXdscDlpMXNrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PcEHGN6WvTO2ekGICI/giphy.gif" height="200">
+-->
+<img src="https://i.imgflip.com/65efzo.gif" height="200">
 <!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rakinplaban&limit=5&theme=dark&combine_all_yearly_contributions=true)
