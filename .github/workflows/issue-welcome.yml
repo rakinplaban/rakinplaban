@@ -1,0 +1,30 @@
+name: Welcome New Issues
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Send Welcome Message
+      uses: actions/github-script@v6
+      with:
+        github-token: ${{ secrets.SMIRK123_TOKEN }}
+        script: |
+          const issueNumber = context.issue.number;
+          const welcomeMessage = `
+          Hi @${{ github.actor }},
+          
+          Thanks for opening this issue! We'll get back to you soon.
+          
+          Best,
+          smirk123
+          `;
+          await github.issues.createComment({
+            ...context.repo,
+            issue_number: issueNumber,
+            body: welcomeMessage
+          });
