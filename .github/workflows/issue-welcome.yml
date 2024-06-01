@@ -12,23 +12,36 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Send Welcome Message
-      uses: actions/github-script@v6
+    - name: Setup Node.js
+      uses: actions/setup-node@v2
       with:
-        github-token: ${{ secrets.SMIRK235_TOKEN }}
-        script: |
-          const issueNumber = context.payload.issue.number;
-          const welcomeMessage = `
-          Hi @${context.payload.issue.user.login},
+        node-version: '18'  # Updated Node.js version
 
-          Thanks for opening this issue! We'll get back to you soon.
+    - name: Create package.json
+      run: |
+        echo '{}' > package.json
+    - name: Install octokit
+      run: npm install @octokit/rest
 
-          Best,
-          smirk235
-          `;
-          await github.issues.createComment({
-            owner: context.repo.owner,
-            repo: context.repo.repo,
-            issue_number: issueNumber,
-            body: welcomeMessage
-          });
+    - name: Send Welcome Message
+      env:
+        GITHUB_TOKEN: ${{ secrets.SMIRK235_TOKEN }}
+      run: |
+        node << 'EOF'
+        const { Octokit } = require('@octokit/rest');
+        const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
+        const [owner, repo] = process.env.GITHUB_REPOSITORY.split('/');
+        const issueNumber = require(process.env.GITHUB_EVENT_PATH).issue.number;
+        const welcomeMessage = `
+        Hi @${require(process.env.GITHUB_EVENT_PATH).issue.user.login},
+        Thanks for opening this issue! We'll get back to you soon.
+        Best,
+        smirk235
+        `;
+        octokit.issues.createComment({
+          owner,
+          repo,
+          issue_number: issueNumber,
+          body: welcomeMessage
+        }).catch(err => console.error('Failed to create comment:', err));
+        EOF
