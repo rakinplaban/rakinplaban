@@ -8,7 +8,7 @@
 </h1>
 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=%fc0e0e&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Keep+It+Simple+Stupid;+Don't+repeat+yourself" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=%fc0e0e&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Keep+It+Simple,+Stupid;+Don't+repeat+yourself" />
 </h1>
 
 
