@@ -74,11 +74,10 @@ I am currently learning ~Flask, a Python web framework~ JavaScript. Being a web 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rakinplaban&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 💝 Take a love
-<!--
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2x5ODVkc3kxcW1qZXp2Ym16MGttZWU5cnhnYjdkOXdscDlpMXNrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PcEHGN6WvTO2ekGICI/giphy.gif" height="200">
--->
-<img src="https://i.imgflip.com/65efzo.gif" height="200">
+
+<img align="right" src="https://i.imgflip.com/65efzo.gif" height="200">
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rakinplaban&limit=5&theme=dark&combine_all_yearly_contributions=true)
