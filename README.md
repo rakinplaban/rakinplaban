@@ -85,6 +85,8 @@ I am currently learning ~Flask, a Python web framework~ JavaScript. Being a web 
 ### LeetCode Status
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rakin54)
 
+<!--![](https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/RakinSP&query=%24.<FIELD>&prefix=<TEXT>&style=for-the-badge&cacheSeconds=86400) -->
+
 <!-- GitHub Profile Views Counter -->
 ![](https://komarev.com/ghpvc/?username=rakinplaban)
 
