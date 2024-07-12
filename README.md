@@ -15,8 +15,8 @@
 I am currently learning ~Flask, a Python web framework~ JavaScript. Being a web developer is my desire. I am presently working on a Cyber Security project. I am a web developer (back-end focused). I like to practice Python & SQL on LeetCode, CodeSignal & HackerRank. I am active on LeetCode, HackerRank, Codeforces, GitHub and StackOverflow.
 
 <h1 align="center">
-    <!--<img src="github_anime1.png">-->
-    <img src="github_anime.jpg">
+    <img src="github_anime1.png">
+    <!--<img src="github_anime.jpg">-->
 </h1>
 
 ### 🎳 Skills: 
