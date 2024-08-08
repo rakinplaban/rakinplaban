@@ -49,6 +49,7 @@ I am currently learning ~Flask, a Python web framework~ JavaScript. Being a web 
 ## 📞 Connect me on 👇
 
 [<img src='https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png' alt='discord' height='32' width='40'>](https://discord.com/users/934874604399390740) 
+[<img src='https://cdn.icon-icons.com/icons2/2972/PNG/512/deviantart_logo_icon_186874.png' alt='deviantart' height='32' width='40'>](https://www.deviantart.com/rakin235)
 
 
 
