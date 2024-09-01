@@ -42,7 +42,7 @@ I am currently learning ~Flask, a Python web framework~ JavaScript. Being a web 
 - 🔭 I'm working on my **University Final Project on Advanced Persistent Threat**.
 - 🌱 focusing on ~learning **Flask Web Framework and Selenium**~ **University Final Project**.
 - 🥅 My career goal is to discover new techniques and technologies in **Web Development**.
-- 📫 How to reach me: 👉 [here](https://github.com/rakinplaban/rakinplaban/discussions)
+- 📫 How to reach me: 👉 [here](https://github.com/rakinplaban/rakinplaban/issues)
 - ⚡ funny facts: A cat person without cats 😭.
 
 
