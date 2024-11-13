@@ -19,7 +19,8 @@ I am currently learning ~Flask, a Python web framework~ JavaScript. Being a web 
     <!--<img src="github_anime.jpg">-->
 </h1>
 
-<img src="https://imgur.com/a/tmgkqEM">
+![Family Moment](https://imgur.com/9SBzyEc.gif)
+
 
 ### 🎳 Skills: 
 
