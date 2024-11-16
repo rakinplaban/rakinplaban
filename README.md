@@ -77,7 +77,7 @@ I am currently learning ~Flask, a Python web framework~ JavaScript. Being a web 
 ![](https://github-profile-trophy.vercel.app/?username=rakinplaban&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-<img align="right" src="https://i.imgflip.com/65efzo.gif" height="200">
+<img align="right" src="https://i.imgur.com/5GupOun.gif" height="200">
 
 
 
