@@ -67,7 +67,7 @@ I am currently learning ~Flask, a Python web framework~ JavaScript. Being a web 
 
 # 📊 GitHub Stats:
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTB6MWNzcjF4YmxwaHl6ejBuc3RqY3hna24xM2t1NTZqeWp2YXYxOCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif" height="200">
+<img align="right" src="https://i.imgur.com/qLqoHew.jpg" height="200">
 
 ![](https://github-readme-stats.vercel.app/api?username=rakinplaban&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rakinplaban&theme=dark&hide_border=false)<br/>
