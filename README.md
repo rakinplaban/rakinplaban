@@ -19,8 +19,6 @@ I am currently learning ~Flask, a Python web framework~ JavaScript. Being a web 
     <!--<img src="github_anime.jpg">-->
 </h1>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJpdzV2MmU0Ym5ydGY5NXEyMjdzMmIwZHhnbXh0MG45cXRxNXIxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UjwGdHCGsYtSDMEk9s/giphy.gif" height = "200">
-
 
 ### 🎳 Skills: 
 
@@ -32,6 +30,11 @@ I am currently learning ~Flask, a Python web framework~ JavaScript. Being a web 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+
+<h1 align="center">
+    <img src="Family memories - Imgur" height="200">
+    <!--<img src="github_anime.jpg">-->
+</h1>
 
 
 ## 🫠 About Me: 
