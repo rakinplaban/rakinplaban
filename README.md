@@ -102,6 +102,11 @@ I am currently learning Flask, a Python web framework ~JavaScript~. Being a web 
 <!--![](https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/RakinSP&query=%24.<FIELD>&prefix=<TEXT>&style=for-the-badge&cacheSeconds=86400) -->
 
 <!-- GitHub Profile Views Counter -->
+
+### 💰 You can help me by Donating
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rakin235) 
+
+
 ![](https://komarev.com/ghpvc/?username=rakinplaban)
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
