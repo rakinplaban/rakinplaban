@@ -1,18 +1,56 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
-### Greeting  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="display: inline-block;">
-<!--[![An image of @rakinplaban's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rakinplaban)](https://holopin.io/@rakinplaban)-->
-<!--
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=%fc0e0e&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rakin+From+Bangladesh!;" />
-</h1>
--->
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=%fc0e0e&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Keep+It+Simple,+Stupid;+Don't+repeat+yourself" />
-</h1>
+# 👨‍💻 Rakin Shahriar – Backend Developer & Aspiring AI Enthusiast
+
+Welcome to my GitHub profile! I’m a Python-powered Web Developer passionate about crafting seamless APIs, automating workflows, and solving problems through efficient coding. Here, you’ll find a mix of personal projects, research initiatives, and experiments that showcase my skills and growth as a developer.
+
+## 🚀 About Me
+- **Web Development:** Experienced in Django and Flask, with a knack for turning ideas into functional web applications.
+
+- **AI Research:** Currently working on Advanced Persistent Threat (APT) detection and overcoming challenges like imbalanced datasets.
+
+- **Digital Creativity:** While I’m not a traditional artist, I enjoy using AI to generate artistic visuals inspired by minimalism and anime.
+
+- **Hobbies:** Anime enthusiast, simulation game pro, and dreamer of a family life filled with daughters, cats, and coffee. ☕🐾
 
 
-I am currently learning Flask, a Python web framework ~JavaScript~. Being a web developer is my desire. I am presently working on a Cyber Security project. I am a web developer (back-end focused). I like to practice Python & SQL on LeetCode, CodeSignal & HackerRank. I am active on LeetCode, HackerRank, Codeforces, GitHub and StackOverflow.
+## 🔧 Technologies & Tools
+
+- **Languages:** Python, JavaScript, SQL
+
+- **Frameworks:** Django, Flask
+
+- **Database:** PostgreSQL, SQLite
+
+- **Other Skills:** API development, web scraping
+
+
+## 🌟 Featured Projects
+### 🔍 APT Detection System
+A research-driven project focusing on detecting Advanced Persistent Threats using a combination of LSTMs and CNNs to analyze imbalanced datasets.
+### 📦 Python Web Scrapers
+A collection of tools to automate data collection and simplify workflows.
+### 🌐 Dynamic Web Apps
+Interactive and dynamic websites built with Django, Flask, and REST APIs.
+
+
+## 📚 Learning Goals
+
+- Master AI-powered problem-solving in cybersecurity.
+
+- Continuously improve my backend expertise while exploring frontend trends.
+
+
+## 📊 Coding Profiles
+
+- LeetCode
+
+- HackerRank
+
+- CodeSignal
+
+- CodinGame
+
 
 <h1 align="center">
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/35c28fac-51f7-4c2f-be4c-b71f511d1cb6/dhrmoax-61b52640-df53-4ab4-a213-0f05760cf143.png/v1/fill/w_1182,h_676,q_70,strp/software_programmer_updated__by_rakin235_dhrmoax-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzMyIiwicGF0aCI6IlwvZlwvMzVjMjhmYWMtNTFmNy00YzJmLWJlNGMtYjcxZjUxMWQxY2I2XC9kaHJtb2F4LTYxYjUyNjQwLWRmNTMtNGFiNC1hMjEzLTBmMDU3NjBjZjE0My5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5Tvxogmz4zXxak8Ovr_j4HxT_vxBZMlVGkn4Azw_w4g" height="200">
@@ -20,37 +58,15 @@ I am currently learning Flask, a Python web framework ~JavaScript~. Being a web 
 </h1>
 
 
-### 🎳 Skills: 
+## 🎨 Creative Side
+
+Check out my AI-generated art and visual experiments on [DeviantArt](https://www.deviantart.com/rakin235).
 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)![Static Badge](https://img.shields.io/badge/PyCharm-bbsdd?style=for-the-badge&logo=PyCharm&logoColor=White&color=black)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Asana-2343?style=for-the-badge&logo=Asana&logoColor=Black&labelColor=Black&color=%23696969)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+## 🤝 Let’s Collaborate!
 
-<!--
-<h1 align="center">
-    <img src="Family memories - Imgur" height="200">
-</h1>
--->
+I’m always open to learning, collaborating, and creating extraordinary things. Feel free to connect with me to discuss projects, research, or anime theories!
 
-
-## 🫠 About Me: 
-
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTl1ZW9ja2sybzR1bmc5cDdwcmI5cGxnNjNhOXNpbmFtbjRrb3RjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" height="200">
-
-
-
-- 💞 I’m looking to collaborate on **Open Source Projects**. 
-- 👀 I’m interested in **Networking and Cyber Security**.
-- 🔭 I'm working on my **University Final Project on Advanced Persistent Threat**.
-- 🌱 Learning **Flask Web Framework ~and Selenium~**~.
-- 🎯 focusing on AI and Machine Learning
-- 🥅 My career goal is to discover new techniques and technologies in **Web Development**.
-- 📫 How to reach me: 👉 [here](https://github.com/rakinplaban/rakinplaban/issues)
-- ⚡ funny facts: A cat person, likes Anime and simulation games. Has an artistic mind 😂. 
 
 
 ## 📞 Connect me on 👇
@@ -73,7 +89,7 @@ I am currently learning Flask, a Python web framework ~JavaScript~. Being a web 
 -->
 
 
-# 📊 GitHub Stats:
+## 💫 GitHub Stats:
 
 <img align="right" src="https://i.imgur.com/qLqoHew.jpg" height="200">
 
