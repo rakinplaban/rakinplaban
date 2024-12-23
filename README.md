@@ -42,15 +42,18 @@ Interactive and dynamic websites built with Django, Flask, and REST APIs.
 
 
 ## 📊 Coding Profiles
+- [LeetCode](https://leetcode.com/rakin54/)  
+- [HackerRank](https://www.hackerrank.com/rakinshahriar54?hr_r=1)  
+- [CodeSignal](https://app.codesignal.com/profile/rakin_shah_p)  
+- [CodinGame](https://www.codingame.com/profile/6a1471f84e75952896860e9f55bd5c262906375)  
+- [Stack Overflow](https://stackoverflow.com/users/16396049/rakin235?tab=profile)  
 
-- LeetCode
 
-- HackerRank
 
-- CodeSignal
 
-- CodinGame
+## 🎨 Creative Side
 
+Check out my AI-generated art and visual experiments on [DeviantArt](https://www.deviantart.com/rakin235).
 
 <h1 align="center">
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/35c28fac-51f7-4c2f-be4c-b71f511d1cb6/dhrmoax-61b52640-df53-4ab4-a213-0f05760cf143.png/v1/fill/w_1182,h_676,q_70,strp/software_programmer_updated__by_rakin235_dhrmoax-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzMyIiwicGF0aCI6IlwvZlwvMzVjMjhmYWMtNTFmNy00YzJmLWJlNGMtYjcxZjUxMWQxY2I2XC9kaHJtb2F4LTYxYjUyNjQwLWRmNTMtNGFiNC1hMjEzLTBmMDU3NjBjZjE0My5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5Tvxogmz4zXxak8Ovr_j4HxT_vxBZMlVGkn4Azw_w4g" height="200">
@@ -58,16 +61,15 @@ Interactive and dynamic websites built with Django, Flask, and REST APIs.
 </h1>
 
 
-## 🎨 Creative Side
-
-Check out my AI-generated art and visual experiments on [DeviantArt](https://www.deviantart.com/rakin235).
-
-
 ## 🤝 Let’s Collaborate!
 
 I’m always open to learning, collaborating, and creating extraordinary things. Feel free to connect with me to discuss projects, research, or anime theories!
 
 
+## 🌐 Communities & Social Platforms  
+
+- **Reddit**: [u/rakin235_](https://www.reddit.com/user/rakin235_)  
+- **Discord**: rakin235 
 
 ## 📞 Connect me on 👇
 
