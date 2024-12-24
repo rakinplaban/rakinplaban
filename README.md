@@ -71,24 +71,7 @@ I’m always open to learning, collaborating, and creating extraordinary things.
 - **Reddit**: [u/rakin235_](https://www.reddit.com/user/rakin235_)  
 - **Discord**: rakin235 
 
-## 📞 Connect me on 👇
 
-[<img src='https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png' alt='discord' align='center' height='32' width='40'>](https://discord.gg/9kWRdNH7) 
-[<img src='https://cdn.icon-icons.com/icons2/2972/PNG/512/deviantart_logo_icon_186874.png' align='center' alt='deviantart' height='32' width='40'>](https://www.deviantart.com/rakin235)
-<a href="https://join.skype.com/invite/wdX8t4JazeJ7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="rakin235" height="30" width="40" /></a>
-
-
-<a href="https://stackoverflow.com/users/16396049/rakin235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rakin235" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/rakin235_/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="rakin235_" height="30" width="40" /></a>
-<a href="https://medium.com/@rakinshahriarplaban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rakin235_" height="30" width="40" /></a>
-<a href="https://instagram.com/rakin235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakin235" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rakinshahriar54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rakinshahriar54" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rakinsp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rakinsp" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rakin54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakin54" height="30" width="40" /></a>
-
-<!--
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/16396049/rakin235?tab=profile)   -  [<img src='https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png' alt='leetcode' height='30'>](https://leetcode.com/rakin54/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png' alt='hackerrank' height='30'>](https://www.hackerrank.com/rakinshahriar54?hr_r=1)  [<img src='https://lh3.googleusercontent.com/WsR_f03nbqW3qZjCZeXUYmnmhSWXo3hQhLX9hgl9QHydCgbXQi_VJeAwnmtuIgTHKdQ=h200' alt='codeforces' height='30'>](https://codeforces.com/profile/RakinSP) [<img src='https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/037/100/original/CodeSignal_Symbol_RGB.png?1665521048' alt='codesignal' height='25'>](https://app.codesignal.com/profile/rakin_shah_p) [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeuxPrzfkLTQ-k7vanooOy_qq9Vye2LBjlW0yD8G7wJw&s' alt='codingame' height='25'>](https://www.codingame.com/profile/6a1471f84e75952896860e9f55bd5c262906375)
--->
 
 
 ## 💫 GitHub Stats:
@@ -114,15 +97,6 @@ I’m always open to learning, collaborating, and creating extraordinary things.
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rakin54)
 
 
-### Stardev
-[![Check out rakinplaban's profile on stardev.io](https://stardev.io/developers/rakinplaban/badge/languages/global.svg)](https://stardev.io/developers/rakinplaban)
-
-<!--![](https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/RakinSP&query=%24.<FIELD>&prefix=<TEXT>&style=for-the-badge&cacheSeconds=86400) -->
-
-<!-- GitHub Profile Views Counter -->
-
-### 💰 You can help me by Donating
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rakin235) 
 
 
 ![](https://komarev.com/ghpvc/?username=rakinplaban)
