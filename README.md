@@ -69,7 +69,8 @@ I’m always open to learning, collaborating, and creating extraordinary things.
 ## 🌐 Communities & Social Platforms  
 
 - **Reddit**: [u/rakin235_](https://www.reddit.com/user/rakin235_)  
-- **Discord**: rakin235 
+- **Discord**: [rakin235](https://discord.com/users/rakin235)
+- **Skype**: [rakin235](https://join.skype.com/invite/wdX8t4JazeJ7)
 
 
 
