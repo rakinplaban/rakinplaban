@@ -4,6 +4,8 @@
 
 Welcome to my GitHub profile! I’m a Python-powered Web Developer passionate about crafting seamless APIs, automating workflows, and solving problems through efficient coding. Here, you’ll find a mix of personal projects, research initiatives, and experiments that showcase my skills and growth as a developer.
 
+---
+
 ## 🚀 About Me
 - **Web Development:** Experienced in Django and Flask, with a knack for turning ideas into functional web applications.
 
@@ -44,10 +46,9 @@ Interactive and dynamic websites built with Django, Flask, and REST APIs.
 ## 📊 Coding Profiles
 - [LeetCode](https://leetcode.com/rakin54/)  
 - [HackerRank](https://www.hackerrank.com/rakinshahriar54?hr_r=1)  
-- [CodeSignal](https://app.codesignal.com/profile/rakin_shah_p)  
 - [CodinGame](https://www.codingame.com/profile/6a1471f84e75952896860e9f55bd5c262906375)  
 - [Stack Overflow](https://stackoverflow.com/users/16396049/rakin235?tab=profile)  
-
+<!-- - [CodeSignal](https://app.codesignal.com/profile/rakin_shah_p)  -->
 
 
 
