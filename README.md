@@ -2,6 +2,8 @@
 
 # 👨‍💻 Rakin Shahriar – Backend Developer & Aspiring AI Enthusiast
 
+![Imgur](https://i.imgur.com/H4NSDXg.gif)
+
 Welcome to my GitHub profile! I’m a Python-powered Web Developer passionate about crafting seamless APIs, automating workflows, and solving problems through efficient coding. Here, you’ll find a mix of personal projects, research initiatives, and experiments that showcase my skills and growth as a developer.
 
 ---
@@ -100,6 +102,8 @@ I’m always open to learning, collaborating, and creating extraordinary things.
     <!--<img src="github_anime.jpg">-->
 </h1>
 
+
+<!-- ![Imgur](https://i.imgur.com/H4NSDXg.gif) -->
 
 ### 👀 Profile View Count
 ---
