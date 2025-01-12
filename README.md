@@ -97,7 +97,7 @@ I’m always open to learning, collaborating, and creating extraordinary things.
 
 
 <h1 align="center">
-    <img src="https://i.imgur.com/H4NSDXg.gif" height="200">
+    <img alt="egif" src="https://www.dropbox.com/scl/fi/hwwuscrw55d3wjliy5rl2/ezgif.com-video-to-gif-converter.gif" height="200" width="200">
     <!-- <img src="https://i.imgur.com/mCGpcqd.gifv" height="200"> -->
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/35c28fac-51f7-4c2f-be4c-b71f511d1cb6/dhrmoax-61b52640-df53-4ab4-a213-0f05760cf143.png/v1/fill/w_1182,h_676,q_70,strp/software_programmer_updated__by_rakin235_dhrmoax-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzMyIiwicGF0aCI6IlwvZlwvMzVjMjhmYWMtNTFmNy00YzJmLWJlNGMtYjcxZjUxMWQxY2I2XC9kaHJtb2F4LTYxYjUyNjQwLWRmNTMtNGFiNC1hMjEzLTBmMDU3NjBjZjE0My5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5Tvxogmz4zXxak8Ovr_j4HxT_vxBZMlVGkn4Azw_w4g" height="200">
     
