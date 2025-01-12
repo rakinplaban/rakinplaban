@@ -85,7 +85,7 @@ I’m always open to learning, collaborating, and creating extraordinary things.
 ![](https://github-profile-trophy.vercel.app/?username=rakinplaban&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-<img align="right" src="https://i.imgur.com/5GupOun.gif" height="200">
+<!-- <img align="right" src="https://i.imgur.com/5GupOun.gif" height="200"> -->
 
 
 
@@ -102,7 +102,7 @@ I’m always open to learning, collaborating, and creating extraordinary things.
 </h1> -->
 
 
-<img src="https://i.imgur.com/H4NSDXgs.gif">
+<img src="https://i.imgur.com/H4NSDXg.gif">
 
 ### 👀 Profile View Count
 ---
