@@ -22,7 +22,7 @@ jobs:
 
             // Comment text
             const thankYouMessage = `
-            Thank you for opening this issue! We appreciate your effort to contribute. 😊
+            Thanks @${require(process.env.GITHUB_EVENT_PATH).issue.user.login} for opening this issue! We appreciate your effort to contribute. 😊
             We'll review it as soon as possible! 🚀
             `;
 
