@@ -102,7 +102,7 @@ I’m always open to learning, collaborating, and creating extraordinary things.
 </h1> -->
 
 
-![Imgur](https://i.imgur.com/H4NSDXg.gif)
+<img src="https://i.imgur.com/H4NSDXgs.gif">
 
 ### 👀 Profile View Count
 ---
