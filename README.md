@@ -75,7 +75,7 @@ I’m always open to learning, collaborating, and creating extraordinary things.
 
 ## 💫 GitHub Stats:
 
-<img align="right" src="https://i.imgur.com/qLqoHew.jpg" height="200">
+<img align="right" src="https://i.imgur.com/Z4uNxmc.jpg" height="200">
 
 ![](https://github-readme-stats.vercel.app/api?username=rakinplaban&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rakinplaban&theme=dark&hide_border=false)<br/>
@@ -86,7 +86,7 @@ I’m always open to learning, collaborating, and creating extraordinary things.
 
 
 <!-- <img align="right" src="https://i.imgur.com/5GupOun.gif" height="200"> -->
-
+<img align="right" src="https://i.imgur.com/qLqoHew.jpg" height="200">
 
 
 ### 🔝 Top Contributed Repo
