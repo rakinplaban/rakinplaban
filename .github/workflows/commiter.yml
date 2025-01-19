@@ -22,7 +22,7 @@ jobs:
       run: pip install json
 
     - name: Run update script
-      run: python your_script_name.py
+      run: python script.py
 
     - name: Commit and push changes
       run: |
