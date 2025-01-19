@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Iâ€™m a Python-powered Web Developer passiona
 
 ---
 
-## ðŸš€ About Me
+## 🚀 About Me
 - **Web Development:** Experienced in Django and Flask, with a knack for turning ideas into functional web applications.
 
 - **AI Research:** Currently working on Advanced Persistent Threat (APT) detection and overcoming challenges like imbalanced datasets.
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! Iâ€™m a Python-powered Web Developer passiona
 
 
 
-## ðŸ”§ Technologies & Tools
+## 🔧 Technologies & Tools
 
 - **Languages:** Python, JavaScript, SQL
 
@@ -37,7 +37,7 @@ Welcome to my GitHub profile! Iâ€™m a Python-powered Web Developer passiona
 ### 🔍 APT Detection System
 
 A research-driven project focusing on detecting Advanced Persistent Threats using a combination of LSTMs and CNNs to analyze imbalanced datasets.
-### ðŸ“¦ Python Web Scrapers
+### 📦 Python Web Scrapers
 A collection of tools to automate data collection and simplify workflows.
 
 ### 🌐 Dynamic Web Apps
@@ -45,14 +45,14 @@ A collection of tools to automate data collection and simplify workflows.
 Interactive and dynamic websites built with Django, Flask, and REST APIs.
 
 
-## ðŸ“š Learning Goals
+## 📚 Learning Goals
 
 - Master AI-powered problem-solving in cybersecurity.
 
 - Continuously improve my backend expertise while exploring frontend trends.
 
 
-## ðŸ“Š Coding Profiles
+## 📊 Coding Profiles
 - [LeetCode](https://leetcode.com/rakin54/)  
 - [Codeforces](https://codeforces.com/profile/rakinsp)  
 - [CodinGame](https://www.codingame.com/profile/6a1471f84e75952896860e9f55bd5c262906375)  
@@ -71,7 +71,7 @@ Check out my AI-generated art and visual experiments on [DeviantArt](https://www
 ## 🤝 Let’s Collaborate!
 
 
-Iâ€™m always open to learning, collaborating, and creating extraordinary things. Feel free to connect with me to discuss projects, research, or anime theories!
+I'm always open to learning, collaborating, and creating extraordinary things. Feel free to connect with me to discuss projects, research, or anime theories!
 
 
 
@@ -85,7 +85,7 @@ Iâ€™m always open to learning, collaborating, and creating extraordinary th
 
 
 
-## ðŸ’« GitHub Stats:
+## 💫 GitHub Stats:
 
 <img align="right" id="updatable" src="https://i.imgur.com/P5UIovx.jpg" height="200">
 
@@ -108,7 +108,7 @@ Iâ€™m always open to learning, collaborating, and creating extraordinary th
 
 ![](https://github-contributor-stats.vercel.app/api?username=rakinplaban&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### ðŸ’» LeetCode Status
+### 💻 LeetCode Status
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rakin54)
 
 
@@ -122,7 +122,7 @@ Iâ€™m always open to learning, collaborating, and creating extraordinary th
 
 
 
-### ðŸ‘€ Profile View Count
+### 👀 Profile View Count
 ---
 <!--
 ![](https://komarev.com/ghpvc/?username=rakinplaban)
