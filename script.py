@@ -11,20 +11,15 @@ with open("imagelink.json", "r") as f:
 images = data["images"]
 
 # Rotate images based on the current day
-print(datetime.now().hour, "<- The hour :: The length ->",len(images))
-index = datetime.now().hour % len(images)
+# print(datetime.now().hour, "<- The hour :: The length ->",len(images))
+index = datetime.now().day % len(images)
 print(index)
 selected_image = images[index]
 
-# Function to detect the encoding type of a file
-def get_encoding_type(file_path):
-    with open(file_path, 'rb') as f:
-        sample = f.read(1024)
-        cur_encoding = chardet.detect(sample)['encoding']
-        return cur_encoding
+
 
 # Read the original Markdown file
-with open("README.md", "r", encoding=get_encoding_type("README.md"), errors='ignore') as f:
+with open("README.md", "r", encoding='utf-8', errors='ignore') as f:
     markdown_content = f.read()
 
 # Regex pattern to find the <img> tag with id="updatable"
@@ -47,7 +42,7 @@ if match:
     updated_markdown_content = markdown_content.replace(original_img_tag, updated_img_tag)
 
     # Write the updated content back to the file
-    with open("README.md", "w", encoding=get_encoding_type("README.md"), errors='ignore') as f:
+    with open("README.md", "w", encoding='utf-8', errors='ignore') as f:
         f.write(updated_markdown_content)
 
     print("Image link updated successfully!")
