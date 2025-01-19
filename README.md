@@ -87,7 +87,7 @@ Iâ€™m always open to learning, collaborating, and creating extraordinary th
 
 ## ðŸ’« GitHub Stats:
 
-<img align="right" id="updatable" src="https://i.imgur.com/0UR3EaT.jpg" height="200">
+<img align="right" id="updatable" src="https://i.imgur.com/P5UIovx.jpg" height="200">
 
 ![](https://github-readme-stats.vercel.app/api?username=rakinplaban&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rakinplaban&theme=dark&hide_border=false)<br/>

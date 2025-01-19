@@ -1,5 +1,4 @@
 import json
-import chardet
 from datetime import datetime
 import re
 
@@ -11,9 +10,8 @@ with open("imagelink.json", "r") as f:
 images = data["images"]
 
 # Rotate images based on the current day
-# print(datetime.now().hour, "<- The hour :: The length ->",len(images))
 index = datetime.now().day % len(images)
-print(index)
+
 selected_image = images[index]
 
 
