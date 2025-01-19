@@ -1,23 +1,27 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
+
 # 👨‍💻 Rakin Shahriar – Backend Developer & Aspiring AI Enthusiast
 
 
-Welcome to my GitHub profile! I’m a Python-powered Web Developer passionate about crafting seamless APIs, automating workflows, and solving problems through efficient coding. Here, you’ll find a mix of personal projects, research initiatives, and experiments that showcase my skills and growth as a developer.
+
+Welcome to my GitHub profile! Iâ€™m a Python-powered Web Developer passionate about crafting seamless APIs, automating workflows, and solving problems through efficient coding. Here, youâ€™ll find a mix of personal projects, research initiatives, and experiments that showcase my skills and growth as a developer.
 
 ---
 
-## 🚀 About Me
+## ðŸš€ About Me
 - **Web Development:** Experienced in Django and Flask, with a knack for turning ideas into functional web applications.
 
 - **AI Research:** Currently working on Advanced Persistent Threat (APT) detection and overcoming challenges like imbalanced datasets.
 
-- **Digital Creativity:** While I’m not a traditional artist, I enjoy using AI to generate artistic visuals inspired by minimalism and anime.
+- **Digital Creativity:** While Iâ€™m not a traditional artist, I enjoy using AI to generate artistic visuals inspired by minimalism and anime.
+
 
 - **Hobbies:** Anime enthusiast, simulation game pro, and dreamer of a family life filled with daughters, cats, and coffee. ☕🐾
 
 
-## 🔧 Technologies & Tools
+
+## ðŸ”§ Technologies & Tools
 
 - **Languages:** Python, JavaScript, SQL
 
@@ -28,23 +32,27 @@ Welcome to my GitHub profile! I’m a Python-powered Web Developer passionate ab
 - **Other Skills:** API development, web scraping
 
 
+
 ## 🌟 Featured Projects
 ### 🔍 APT Detection System
+
 A research-driven project focusing on detecting Advanced Persistent Threats using a combination of LSTMs and CNNs to analyze imbalanced datasets.
-### 📦 Python Web Scrapers
+### ðŸ“¦ Python Web Scrapers
 A collection of tools to automate data collection and simplify workflows.
+
 ### 🌐 Dynamic Web Apps
+
 Interactive and dynamic websites built with Django, Flask, and REST APIs.
 
 
-## 📚 Learning Goals
+## ðŸ“š Learning Goals
 
 - Master AI-powered problem-solving in cybersecurity.
 
 - Continuously improve my backend expertise while exploring frontend trends.
 
 
-## 📊 Coding Profiles
+## ðŸ“Š Coding Profiles
 - [LeetCode](https://leetcode.com/rakin54/)  
 - [Codeforces](https://codeforces.com/profile/rakinsp)  
 - [CodinGame](https://www.codingame.com/profile/6a1471f84e75952896860e9f55bd5c262906375)  
@@ -53,14 +61,18 @@ Interactive and dynamic websites built with Django, Flask, and REST APIs.
 
 
 
+
 ## 🎨 Creative Side
+
 
 Check out my AI-generated art and visual experiments on [DeviantArt](https://www.deviantart.com/rakin235).
 
 
 ## 🤝 Let’s Collaborate!
 
-I’m always open to learning, collaborating, and creating extraordinary things. Feel free to connect with me to discuss projects, research, or anime theories!
+
+Iâ€™m always open to learning, collaborating, and creating extraordinary things. Feel free to connect with me to discuss projects, research, or anime theories!
+
 
 
 ## 🌐 Communities & Social Platforms  
@@ -73,7 +85,7 @@ I’m always open to learning, collaborating, and creating extraordinary things.
 
 
 
-## 💫 GitHub Stats:
+## ðŸ’« GitHub Stats:
 
 <img align="right" id="updatable" src="https://i.imgur.com/0UR3EaT.jpg" height="200">
 
@@ -81,7 +93,9 @@ I’m always open to learning, collaborating, and creating extraordinary things.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rakinplaban&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakinplaban&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=rakinplaban&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
@@ -89,10 +103,12 @@ I’m always open to learning, collaborating, and creating extraordinary things.
 <img align="right" src="https://i.imgur.com/qLqoHew.jpg" height="200">
 
 
+
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=rakinplaban&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 💻 LeetCode Status
+### ðŸ’» LeetCode Status
 ![Leetcode Stats](https://leetcard.jacoblin.cool/rakin54)
 
 
@@ -106,7 +122,7 @@ I’m always open to learning, collaborating, and creating extraordinary things.
 
 
 
-### 👀 Profile View Count
+### ðŸ‘€ Profile View Count
 ---
 <!--
 ![](https://komarev.com/ghpvc/?username=rakinplaban)
