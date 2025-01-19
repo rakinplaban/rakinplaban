@@ -1,6 +1,6 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
-# 👨‍💻 Rakin Shahriar – Backend Developer & Aspiring AI Enthusiast
+# 👨�💻 Rakin Shahriar – Backend Developer & Aspiring AI Enthusiast
 
 
 Welcome to my GitHub profile! I’m a Python-powered Web Developer passionate about crafting seamless APIs, automating workflows, and solving problems through efficient coding. Here, you’ll find a mix of personal projects, research initiatives, and experiments that showcase my skills and growth as a developer.
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I’m a Python-powered Web Developer passionate ab
 
 - **Digital Creativity:** While I’m not a traditional artist, I enjoy using AI to generate artistic visuals inspired by minimalism and anime.
 
-- **Hobbies:** Anime enthusiast, simulation game pro, and dreamer of a family life filled with daughters, cats, and coffee. ☕🐾
+- **Hobbies:** Anime enthusiast, simulation game pro, and dreamer of a family life filled with daughters, cats, and coffee. ☕�
 
 
 ## 🔧 Technologies & Tools
@@ -29,11 +29,11 @@ Welcome to my GitHub profile! I’m a Python-powered Web Developer passionate ab
 
 
 ## 🌟 Featured Projects
-### 🔍 APT Detection System
+### � APT Detection System
 A research-driven project focusing on detecting Advanced Persistent Threats using a combination of LSTMs and CNNs to analyze imbalanced datasets.
 ### 📦 Python Web Scrapers
 A collection of tools to automate data collection and simplify workflows.
-### 🌐 Dynamic Web Apps
+### � Dynamic Web Apps
 Interactive and dynamic websites built with Django, Flask, and REST APIs.
 
 
@@ -53,17 +53,17 @@ Interactive and dynamic websites built with Django, Flask, and REST APIs.
 
 
 
-## 🎨 Creative Side
+## � Creative Side
 
 Check out my AI-generated art and visual experiments on [DeviantArt](https://www.deviantart.com/rakin235).
 
 
-## 🤝 Let’s Collaborate!
+## � Let’s Collaborate!
 
 I’m always open to learning, collaborating, and creating extraordinary things. Feel free to connect with me to discuss projects, research, or anime theories!
 
 
-## 🌐 Communities & Social Platforms  
+## � Communities & Social Platforms  
 
 - **Reddit**: [u/rakin235_](https://www.reddit.com/user/rakin235_)  
 - **Discord**: [rakin235](https://discord.com/users/rakin235)
@@ -75,13 +75,13 @@ I’m always open to learning, collaborating, and creating extraordinary things.
 
 ## 💫 GitHub Stats:
 
-<img align="right" src="https://i.imgur.com/Z4uNxmc.jpg" height="200">
+<img id="updatable" align="right" src="https://i.imgur.com/Z4uNxmc.jpg" height="200">
 
 ![](https://github-readme-stats.vercel.app/api?username=rakinplaban&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rakinplaban&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakinplaban&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## � GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rakinplaban&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
@@ -89,7 +89,7 @@ I’m always open to learning, collaborating, and creating extraordinary things.
 <img align="right" src="https://i.imgur.com/qLqoHew.jpg" height="200">
 
 
-### 🔝 Top Contributed Repo
+### � Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rakinplaban&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 💻 LeetCode Status
