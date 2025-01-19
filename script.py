@@ -1,57 +1,57 @@
-import markdown
-from bs4 import BeautifulSoup
 import json
 import chardet
 from datetime import datetime
+import re
 
+# Load image links from a JSON file
 with open("imagelink.json", "r") as f:
     data = json.load(f)
 
 # Get the list of image URLs
 images = data["images"]
 
-# Option 1: Rotate images based on the current day
-# You can also use hours or minutes if needed
-index = datetime.now().day % len(images)
-
-# Option 2: Randomly select an image
-# index = random.randint(0, len(images) - 1)
-
+# Rotate images based on the current day
+print(datetime.now().hour, "<- The hour :: The length ->",len(images))
+index = datetime.now().hour % len(images)
+print(index)
 selected_image = images[index]
 
+# Function to detect the encoding type of a file
 def get_encoding_type(file_path):
     with open(file_path, 'rb') as f:
         sample = f.read(1024)
         cur_encoding = chardet.detect(sample)['encoding']
         return cur_encoding
 
-with open("README.md", "r", encoding = get_encoding_type("README.md"),errors='ignore') as f:
-    
+# Read the original Markdown file
+with open("README.md", "r", encoding=get_encoding_type("README.md"), errors='ignore') as f:
     markdown_content = f.read()
 
+# Regex pattern to find the <img> tag with id="updatable"
+img_pattern = r'<img[^>]*id=["\']updatable["\'][^>]*>'
 
-html_content = markdown.markdown(markdown_content)
+# Search for the tag
+match = re.search(img_pattern, markdown_content)
 
-parser = BeautifulSoup(html_content, "html.parser")
+if match:
+    original_img_tag = match.group(0)
 
+    # Regex to update the src attribute within the <img> tag
+    updated_img_tag = re.sub(
+        r'src=["\'][^"\']*["\']',  # Match src="current_link"
+        f'src="{selected_image}"',  # Replace with new link
+        original_img_tag
+    )
 
+    # Replace the original <img> tag with the updated one in the Markdown content
+    updated_markdown_content = markdown_content.replace(original_img_tag, updated_img_tag)
 
-img_id = parser.find("img",{'id':'updatable'})
+    # Write the updated content back to the file
+    with open("README.md", "w", encoding=get_encoding_type("README.md"), errors='ignore') as f:
+        f.write(updated_markdown_content)
 
-original_html = str(img_id)
-
-try:
-    # img_source = img_id['src']
-    # print("Image source: ",img_source)
-    img_id['src'] = selected_image
-    updated_html = str(img_id)
-    print("Updated HTML: ", img_id['src'])
-    updated_markdown_content = markdown_content.replace(original_html, updated_html)
-    print("Updated Markdown Content: ", updated_markdown_content)
-    with open('README.md','w',encoding=get_encoding_type('README.md'),errors='ignore') as file:
-        file.write(updated_markdown_content)
-
-    
-
-except:
-    print("No image found")
+    print("Image link updated successfully!")
+    print("Original tag:", original_img_tag)
+    print("Updated tag:", updated_img_tag)
+else:
+    print("No <img> tag with id='updatable' found in the Markdown file.")
