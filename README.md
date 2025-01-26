@@ -5,7 +5,7 @@
 
 
 
-Welcome to my GitHub profile! Iâ€™m a Python-powered Web Developer passionate about crafting seamless APIs, automating workflows, and solving problems through efficient coding. Here, youâ€™ll find a mix of personal projects, research initiatives, and experiments that showcase my skills and growth as a developer.
+Welcome to my GitHub profile! I'm a Python-powered Web Developer passionate about crafting seamless APIs, automating workflows, and solving problems through efficient coding. Here, you'll find a mix of personal projects, research initiatives, and experiments that showcase my skills and growth as a developer.
 
 ---
 
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Iâ€™m a Python-powered Web Developer passiona
 
 - **AI Research:** Currently working on Advanced Persistent Threat (APT) detection and overcoming challenges like imbalanced datasets.
 
-- **Digital Creativity:** While Iâ€™m not a traditional artist, I enjoy using AI to generate artistic visuals inspired by minimalism and anime.
+- **Digital Creativity:** While I'm not a traditional artist, I enjoy using AI to generate artistic visuals inspired by minimalism and anime.
 
 
 - **Hobbies:** Anime enthusiast, simulation game pro, and dreamer of a family life filled with daughters, cats, and coffee. ☕🐾
@@ -73,9 +73,9 @@ Check out my AI-generated art and visual experiments on [DeviantArt](https://www
 
 I'm always open to learning, collaborating, and creating extraordinary things. Feel free to connect with me to discuss projects, research, or anime theories!
 
+**📩 So reach me out 👇🏼** 
 
-
-## 🌐 Communities & Social Platforms  
+<!--## 🌐 Communities & Social Platforms  -->
 
 - **Reddit**: [u/rakin235_](https://www.reddit.com/user/rakin235_)  
 - **Discord**: [rakin235](https://discord.com/users/rakin235)
@@ -90,6 +90,7 @@ I'm always open to learning, collaborating, and creating extraordinary things. F
 <img align="right" id="updatable" src="https://i.imgur.com/mSObRoz.jpg" height="200">
 
 ![](https://github-readme-stats.vercel.app/api?username=rakinplaban&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats-ikff.vercel.app/?user=rakinplaban&theme=transparent&border_color=61dafb&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rakinplaban&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakinplaban&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
