@@ -60,8 +60,6 @@ Interactive and dynamic websites built with Django, Flask, and REST APIs.
 <!-- - [CodeSignal](https://app.codesignal.com/profile/rakin_shah_p)  -->
 
 
-
-
 ## 🎨 Creative Side
 
 
@@ -73,6 +71,7 @@ Check out my AI-generated art and visual experiments on [DeviantArt](https://www
 
 I'm always open to learning, collaborating, and creating extraordinary things. Feel free to connect with me to discuss projects, research, or anime theories!
 
+
 **📩 So reach me out 👇🏼** 
 
 <!--## 🌐 Communities & Social Platforms  -->
@@ -80,12 +79,13 @@ I'm always open to learning, collaborating, and creating extraordinary things. F
 - **Reddit**: [u/rakin235_](https://www.reddit.com/user/rakin235_)  
 - **Discord**: [rakin235](https://discord.com/users/rakin235)
 - **Skype**: [rakin235](https://join.skype.com/invite/wdX8t4JazeJ7)
-- **GitHub: [Issues](https://github.com/rakinplaban/rakinplaban/issues)** 
+- **[GitHub Issues](https://github.com/rakinplaban/rakinplaban/issues)** 
 
 
 
 
 ## 💫 GitHub Stats:
+
 
 <img align="right" id="updatable" src="https://animemagic.vercel.app/anime-image?t=123456" height="200">
 
@@ -94,8 +94,7 @@ I'm always open to learning, collaborating, and creating extraordinary things. F
 
 ![](https://github-readme-stats.vercel.app/api?username=rakinplaban&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats-ikff.vercel.app/?user=rakinplaban&theme=transparent&border_color=61dafb&hide_border=true)<br/>
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=rakinplaban&theme=dark&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakinplaban&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 ## 🏆 GitHub Trophies
@@ -117,7 +116,7 @@ I'm always open to learning, collaborating, and creating extraordinary things. F
 
 
 <h1 align="center">
-    <img src="https://i.imgur.com/8FbSeBG.gif" height="200" width="300">
+    <img id="animation" src="https://i.imgur.com/8FbSeBG.gif" height="200" width="300">
     <!-- <img src="https://i.imgur.com/mCGpcqd.gifv" height="200"> -->
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/35c28fac-51f7-4c2f-be4c-b71f511d1cb6/dhrmoax-61b52640-df53-4ab4-a213-0f05760cf143.png/v1/fill/w_1182,h_676,q_70,strp/software_programmer_updated__by_rakin235_dhrmoax-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzMyIiwicGF0aCI6IlwvZlwvMzVjMjhmYWMtNTFmNy00YzJmLWJlNGMtYjcxZjUxMWQxY2I2XC9kaHJtb2F4LTYxYjUyNjQwLWRmNTMtNGFiNC1hMjEzLTBmMDU3NjBjZjE0My5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5Tvxogmz4zXxak8Ovr_j4HxT_vxBZMlVGkn4Azw_w4g" height="200">
     
