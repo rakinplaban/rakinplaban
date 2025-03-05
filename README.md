@@ -87,7 +87,7 @@ I'm always open to learning, collaborating, and creating extraordinary things. F
 ## 💫 GitHub Stats:
 
 
-<img align="right" id="updatable" src="https://animemagic.vercel.app/anime-image?t=123456" height="200">
+<img align="right" src="https://animemagic.vercel.app/anime-image?t=123456" height="200">
 
 *Today's image is part of a rotating set. Come back tomorrow to see another from the collection.*
 
@@ -103,7 +103,7 @@ I'm always open to learning, collaborating, and creating extraordinary things. F
 
 
 <!-- <img align="right" src="https://i.imgur.com/5GupOun.gif" height="200"> -->
-<img align="right" src="https://i.imgur.com/qLqoHew.jpg" height="200">
+<img align="right" id="updatable" src="https://i.imgur.com/qLqoHew.jpg" height="200">
 
 
 

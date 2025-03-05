@@ -1,6 +1,7 @@
 import json
 from datetime import datetime
 import re
+import random
 
 # Load image links from a JSON file
 with open("imagelink.json", "r") as f:
@@ -10,7 +11,7 @@ with open("imagelink.json", "r") as f:
 images = data["images"]
 
 # Rotate images based on the current day
-index = datetime.now().day % len(images)
+index = random.randint(0, len(data["images"])-1)
 
 selected_image = images[index]
 
