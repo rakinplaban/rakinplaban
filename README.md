@@ -55,7 +55,7 @@ Interactive and dynamic websites built with Django, Flask, and REST APIs.
 ## 📊 Coding Profiles
 - [LeetCode](https://leetcode.com/rakin54/)  
 - [Codeforces](https://codeforces.com/profile/rakinsp)  
-- [CodinGame](https://www.codingame.com/profile/6a1471f84e75952896860e9f55bd5c262906375)  
+- [Kaggle](https://www.kaggle.com/rakinshahriar)  
 - [Stack Overflow](https://stackoverflow.com/users/16396049/rakin235?tab=profile)  
 <!-- - [CodeSignal](https://app.codesignal.com/profile/rakin_shah_p)  -->
 
