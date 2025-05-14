@@ -101,7 +101,7 @@ I'm always open to learning, collaborating, and creating extraordinary things. F
 
 
 <!-- <img align="right" src="https://i.imgur.com/5GupOun.gif" height="200"> -->
-<img align="right" id="updatable" src="https://i.imgur.com/qLqoHew.jpg" height="200">
+<img align="right" id="updatable" src="https://i.imgur.com/w5qou10.jpg" height="200">
 
 
 
