@@ -1,6 +1,6 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
-
+![](bGmqCZu3.gif)
 # 👨‍💻 Rakin Shahriar – Backend Developer & Aspiring AI Enthusiast
 
 
