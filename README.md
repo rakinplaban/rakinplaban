@@ -1,11 +1,11 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
 ![](bGmqCZu3.gif)
-# 👨‍💻 Rakin Shahriar – Backend Developer & Aspiring AI Enthusiast
+<!-- # 👨‍💻 Rakin Shahriar – Backend Developer & Aspiring AI Enthusiast -->
 
+<img align=right src="images\bunny_girl.png" height=250px width=150px>
 
-
-Welcome to my GitHub profile! I'm a Python-powered Web Developer passionate about crafting seamless APIs, automating workflows, and solving problems through efficient coding. Here, you'll find a mix of personal projects, research initiatives, and experiments that showcase my skills and growth as a developer.
+Welcome to my GitHub profile! I'm a Python-powered **Web Developer** passionate about crafting seamless APIs, automating workflows, and solving problems through efficient coding. Here, you'll find a mix of personal projects, research initiatives, and experiments that showcase my skills and growth as a developer.
 
 ---
 
