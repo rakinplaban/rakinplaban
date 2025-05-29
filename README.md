@@ -3,13 +3,13 @@
 ![](bGmqCZu3.gif)
 <!-- # 👨‍💻 Rakin Shahriar – Backend Developer & Aspiring AI Enthusiast -->
 
-<img align=right src="images\bunny_girl.png" height=250px width=150px>
 
 Welcome to my GitHub profile! I'm a Python-powered **Web Developer** passionate about crafting seamless APIs, automating workflows, and solving problems through efficient coding. Here, you'll find a mix of personal projects, research initiatives, and experiments that showcase my skills and growth as a developer.
 
----
 
 ## 🚀 About Me
+<img align=right src="images\sad_girl.png" height=250px width=250px>
+
 - **Web Development:** Experienced in Django and Flask, with a knack for turning ideas into functional web applications.
 
 - **AI Research:** Currently working on Advanced Persistent Threat (APT) detection and overcoming challenges like imbalanced datasets.
