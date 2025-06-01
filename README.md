@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a Python-powered **Web Developer** passionate 
 
 
 ## 🚀 About Me
-<img align=right src="images\sad_girl.png" height=250px width=250px>
 
 - **Web Development:** Experienced in Django and Flask, with a knack for turning ideas into functional web applications.
 
