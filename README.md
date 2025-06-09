@@ -56,7 +56,7 @@ Interactive and dynamic websites built with Django, Flask, and REST APIs.
 - Codeberg - [rakin235](https://codeberg.org/rakin235)  
 - Stack Overflow - [rakin235](https://stackoverflow.com/users/16396049/rakin235?tab=profile) 
 - LeetCode - [rakin54](https://leetcode.com/rakin54/)  
-- Bluesky - [@rakin235.bsky.social‬](https://bsky.app/profile/rakin235.bsky.social)
+- Bluesky - [rakin235.bsky.social‬](https://bsky.app/profile/rakin235.bsky.social)
 - DeviantArt - [rakin235](https://www.deviantart.com/rakin235)
 <!-- - Kaggle - [rakinshahriar](https://www.kaggle.com/rakinshahriar)   -->
  
