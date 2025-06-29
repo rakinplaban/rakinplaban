@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm a Python-powered **Web Developer** exploring t
 
 - 🧪 **AI Research:** A research initiative combining LSTM + CNN models to analyze imbalanced data and detect advanced persistent threats.
 
-- 🎨 **AI Art & Generators:** I occasionally use AI to generate art inspired by minimalism and anime. Some visual experiments live on [DeviantArt](https://www.deviantart.com/rakin235).
 
 
 ---
@@ -56,6 +55,7 @@ Full-stack backend APIs using Django REST Framework, Flask microservices, and li
 
 - 🎀 Mascot-driven development: I design projects around characters like `Sayuri`, `Luma`, and `Synthia`, who act as virtual helpers in my tools.
 - ☕ Urban gardening + simulation games.
+- 🎨 AI Art and image generation. Some of my arts on [DeviantArt](https://www.deviantart.com/rakin235)
 - 🐾 A quiet dream of a home filled with cats, coffee, and stories.
 
 ---
