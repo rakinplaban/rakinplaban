@@ -4,11 +4,15 @@
 
 <!-- 👨‍💻 -->
 
-Welcome to my GitHub profile! I'm a Python-powered **Web Developer** exploring the boundaries of backend, AI, and automation. Here you'll find personal projects, research ideas, experiments — and a few anime-inspired tech creations that reflect how I learn and build.
+<!-- Welcome to my GitHub profile! I'm a Python-powered **Web Developer** exploring the boundaries of backend, AI, and automation. Here you'll find personal projects, research ideas, experiments — and a few anime-inspired tech creations that reflect how I learn and build. -->
+
+**Hello and welcome to my GitHub profile!**
+
+I'm a *Web Developer* with a strong foundation in *Python*, passionate about building powerful backend systems and pushing the limits of what's possible with AI, automation, and creative coding. This space is a reflection of my learning journey — a mix of personal projects, research-driven ideas, and experimental code. You'll also notice a touch of my personality in the form of anime-inspired tech creations, blending art and logic in fun, unconventional ways. Whether you're here to collaborate, browse, or just curious, I hope you'll find something interesting in my work!
 
 ---
 
-## 🚀 Highlights
+### 🚀 Highlights
 
 - 🤖 **Bots & Automation:** From Discord bots like `Synthia` to GitHub automation like `LumaBot` — I build tools that interact, thank, and automate with charm.
 
@@ -20,7 +24,7 @@ Welcome to my GitHub profile! I'm a Python-powered **Web Developer** exploring t
 
 ---
 
-## 🔧 Tech Toolbox
+### 🔧 Tech Toolbox
 
 - **Languages:** Python, JavaScript, SQL  
 - **Frameworks:** Django, Flask, FastAPI  
@@ -29,20 +33,23 @@ Welcome to my GitHub profile! I'm a Python-powered **Web Developer** exploring t
 
 ---
 
-## 📦 Featured Projects
+### 📦 Featured Projects
 
-### 🔍 APT Detection System  
+**🔍 APT Detection System**
+
 LSTM + CNN hybrid model for detecting stealthy cyber threats. Tackles challenges like imbalanced data and long-term dependencies.
 
-### 📤 Python Web Scrapers  
+**📤 Python Web Scrapers**
+
 A toolbox of CLI/utility-based scrapers for collecting structured data from various sites.
 
-### 🌐 Dynamic Web Apps  
+**🌐 Dynamic Web Apps**
+
 Full-stack backend APIs using Django REST Framework, Flask microservices, and lightweight UI components.
 
 ---
 
-## 📚 Learning Focus
+### 📚 Learning Focus
 
 - 📈 Master AI-powered decision systems in cybersecurity  
 - 🔄 Use Docker & NGINX to containerize and deploy backend APIs  
@@ -51,7 +58,7 @@ Full-stack backend APIs using Django REST Framework, Flask microservices, and li
 
 ---
 
-## 🌸 Side Interests
+### 🌸 Side Interests
 
 - 🎀 Mascot-driven development: I design projects around characters like `Sayuri`, `Luma`, and `Synthia`, who act as virtual helpers in my tools.
 - ☕ Urban gardening + simulation games.
@@ -60,20 +67,19 @@ Full-stack backend APIs using Django REST Framework, Flask microservices, and li
 
 ---
 
-## 🌐 Social & Platforms
+### 🌐 Social & Platforms
 
 - Codeforces – [rakinsp](https://codeforces.com/profile/rakinsp)  
 - Codeberg – [@rakin235](https://codeberg.org/rakin235)  
 - Stack Overflow – [@rakin235](https://stackoverflow.com/users/16396049/rakin235?tab=profile)  
-- LeetCode – [rakin54](https://leetcode.com/rakin54/)  
-- DeviantArt – [@rakin235](https://www.deviantart.com/rakin235)  
 - Bluesky – [@rakin235.bsky.social‬](https://bsky.app/profile/rakin235.bsky.social)  
+<!-- - LeetCode – [rakin54](https://leetcode.com/rakin54/) -->
 
 <!-- - Kaggle – Coming soon -->
 
 ---
 
-## 🤝 Let’s Collaborate
+### 🤝 Let’s Collaborate
 
 <!-- Whether you're building tools, researching security, or just want to nerd out over anime-themed bots — I’m always up for conversations and collabs. -->
 
@@ -96,7 +102,7 @@ Many mascots were initially prototyped with AI, but I'd love to bring them to li
 
 ---
 
-## 💫 GitHub Stats
+### 💫 GitHub Stats
 
 <img align="right" src="https://animemagic.vercel.app/anime-image?t=123456" height="200">
 
@@ -113,7 +119,7 @@ Many mascots were initially prototyped with AI, but I'd love to bring them to li
 
 ---
 
-## 👁️ Profile View Counter
+## 👀 Profile View Counter
 
 ![](https://count.getloli.com/@rakinplaban?name=rakinplaban&theme=ai-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
